@@ -5,7 +5,7 @@ Note that it doesn't look for gaps in the numbers, it only returns the highest n
 
 ## Usage
 ```shell
-agsmaxid \<url to MapServer>
+agsmaxid <url to MapServer>
 ```
 
 ## Example
